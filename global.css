@@ -27,6 +27,7 @@ body {
 	font-size: 1.2rem;
 	background-color: var(--base-color);
 	color: var(--text-color);
+	overflow: hidden;
 }
 
 @media screen and (max-width: 600px) {
