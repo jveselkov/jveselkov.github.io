@@ -29,9 +29,9 @@ body {
 	color: var(--text-color);
 }
 
-@media (max-width: 30rem) {
+@media screen and (max-width: 600px) {
 	body	{ 
-		font-size: 4vw ;
+		font-size: 0.8rem ;
 	}
 }
 
